@@ -24,5 +24,33 @@ namespace mothers_water_automation
         {
             InitializeComponent();
         }
+
+        private void test_click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("hello", "hwello there");
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            string daysName = System.DateTime.Now.ToString("dddd");
+            
+            if (daysJakesName.Text == "")
+            {
+
+            }
+            else
+            {
+                daysName = daysJakesName.Text;
+            }
+
+            if (daysName == "Monday")
+            {
+                MessageBox.Show("mon");
+            }
+            else if (daysName == "Tuesday")
+            {
+                MessageBox.Show("tue");
+            }
+        }
     }
 }

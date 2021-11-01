@@ -6,7 +6,11 @@
         xmlns:local="clr-namespace:mothers_water_automation"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
 
-    </Grid>
+    <Border Padding="3">
+        <StackPanel>
+            <Button Content="start" Margin="200, 150" Click="Button_Click" FontFamily="Bahnschrift Light" FontSize="20" Height="57" />
+            <TextBox Height="31" Width="408" x:Name="daysJakesName"/>
+        </StackPanel>
+    </Border>
 </Window>

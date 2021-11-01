@@ -1,0 +1,20 @@
+C:\Users\jacob\source\repos\mothers water automation\mothers water automation\bin\Debug\netcoreapp3.1\mothers water automation.exe
+C:\Users\jacob\source\repos\mothers water automation\mothers water automation\bin\Debug\netcoreapp3.1\mothers water automation.deps.json
+C:\Users\jacob\source\repos\mothers water automation\mothers water automation\bin\Debug\netcoreapp3.1\mothers water automation.runtimeconfig.json
+C:\Users\jacob\source\repos\mothers water automation\mothers water automation\bin\Debug\netcoreapp3.1\mothers water automation.runtimeconfig.dev.json
+C:\Users\jacob\source\repos\mothers water automation\mothers water automation\bin\Debug\netcoreapp3.1\mothers water automation.dll
+C:\Users\jacob\source\repos\mothers water automation\mothers water automation\bin\Debug\netcoreapp3.1\mothers water automation.pdb
+C:\Users\jacob\source\repos\mothers water automation\mothers water automation\obj\Debug\netcoreapp3.1\mothers water automation.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\mothers water automation\mothers water automation\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\jacob\source\repos\mothers water automation\mothers water automation\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\jacob\source\repos\mothers water automation\mothers water automation\obj\Debug\netcoreapp3.1\mothers water automation_MarkupCompile.cache
+C:\Users\jacob\source\repos\mothers water automation\mothers water automation\obj\Debug\netcoreapp3.1\mothers water automation_MarkupCompile.lref
+C:\Users\jacob\source\repos\mothers water automation\mothers water automation\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\jacob\source\repos\mothers water automation\mothers water automation\obj\Debug\netcoreapp3.1\mothers water automation.g.resources
+C:\Users\jacob\source\repos\mothers water automation\mothers water automation\obj\Debug\netcoreapp3.1\mothers water automation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\mothers water automation\mothers water automation\obj\Debug\netcoreapp3.1\mothers water automation.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\mothers water automation\mothers water automation\obj\Debug\netcoreapp3.1\mothers water automation.AssemblyInfo.cs
+C:\Users\jacob\source\repos\mothers water automation\mothers water automation\obj\Debug\netcoreapp3.1\mothers water automation.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\mothers water automation\mothers water automation\obj\Debug\netcoreapp3.1\mothers water automation.dll
+C:\Users\jacob\source\repos\mothers water automation\mothers water automation\obj\Debug\netcoreapp3.1\mothers water automation.pdb
+C:\Users\jacob\source\repos\mothers water automation\mothers water automation\obj\Debug\netcoreapp3.1\mothers water automation.genruntimeconfig.cache
